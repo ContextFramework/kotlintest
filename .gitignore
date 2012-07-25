@@ -1,0 +1,7 @@
+.idea
+/kotlintest.iml
+/kotlintest.ipr
+/kotlintest.iws
+/src/test/Test.iml
+/target/
+/src/main/Main.iml
